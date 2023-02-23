@@ -1,1 +1,1 @@
-# Curso-de-aplica-oes-modernas-com-cypress
+# Curso-de-aplicações-modernas-com-cypress
